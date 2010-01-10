@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<elements>
+	<element>
+    <id>Fe</id>
+		<phaseChange>
+			<temperature>1811</temperature>
+			<enthalpy>13806</enthalpy>
+			<entropy>7.6241</entropy>
+			<heatCapacityChange>4.6537</heatCapacityChange>
+		</phaseChange>
+	</element>
+	<element>
+    <id>Cr</id>
+		<phaseChange>
+			<temperature>2180</temperature>
+			<enthalpy>21004</enthalpy>
+			<entropy>9.6349</entropy>
+			<heatCapacityChange>-10.7118</heatCapacityChange>
+		</phaseChange>
+	</element>
+	<element>
+		<id>Pu</id>
+		<phaseChange>
+			<temperature>913</temperature>
+			<enthalpy>2824.03</enthalpy>
+			<entropy>3.0931</entropy>
+			<heatCapacityChange>8.447</heatCapacityChange>
+		</phaseChange>
+	</element>
+	<element>
+		<id>U</id>
+		<phaseChange>
+			<temperature>1408</temperature>
+			<enthalpy>9142.04</enthalpy>
+			<entropy>6.4929</entropy>
+			<heatCapacityChange>10.3764</heatCapacityChange>
+		</phaseChange>
+	</element>
+	
+</elements>

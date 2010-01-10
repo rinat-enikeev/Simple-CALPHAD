@@ -1,0 +1,12 @@
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\bin\Debug\VisualPhaseCalculation.exe
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\bin\Debug\VisualPhaseCalculation.pdb
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.csproj.ResolveComReference.cache
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.mainForm.resources
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.Properties.Resources.resources
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.csproj.GenerateResource.Cache
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.exe
+C:\Users\Rinat\Desktop\Backup\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.pdb
+C:\Users\Rinat\Desktop\VisualPhase\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.csproj.ResolveComReference.cache
+C:\Users\Rinat\Desktop\VisualPhase\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.exe
+C:\Users\Rinat\Desktop\VisualPhase\VisualPhaseCalculation\obj\Debug\VisualPhaseCalculation.pdb

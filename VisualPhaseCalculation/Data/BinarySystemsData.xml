@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<systems>
+	<system>
+		<leftElement id="Pu"/>
+		<rightElement id="U"/>
+		<azeotrope>
+			<temperature>900</temperature>
+			<coordinate>0.0978</coordinate>
+		</azeotrope>
+		<experimental>
+			<temperature>1173</temperature>
+			<liquidusCoordinate>0.596</liquidusCoordinate>
+			<solidusCoordinate>0.682</solidusCoordinate>
+		</experimental>
+	</system>
+	
+	<system>
+		<leftElement id="Fe"/>
+		<rightElement id="Cr"/>
+		<azeotrope>
+			<temperature>1786</temperature>
+			<coordinate>0.22</coordinate>
+		</azeotrope>
+		<experimental>
+			<temperature>1873</temperature>
+			<liquidusCoordinate>0.6</liquidusCoordinate>
+			<solidusCoordinate>0.762</solidusCoordinate>
+		</experimental>
+	</system>
+	
+</systems>
+ 
